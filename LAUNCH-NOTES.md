@@ -30,7 +30,7 @@ Everything below needs Vanessa's confirmation or action before or at launch. Fac
 ## v2 "Gold Line" art (Oct 12 2026)
 - **Credit:** Line-art series: Couture House original illustrations restyled in Twelve:21 gold/black and animated with Kie.ai (Nano Banana Pro + Kling 2.1 Pro); owned by Couture House, licensed to the salon with the site.
 - The illustrations are stylised, not portraits of Vanessa or any client. Her real photos stay in "Yes, it's ME" and the gallery.
-- The hero photo from v1 (sleek braided ponytail) now lives in the gallery only. `share.jpg` is unchanged on purpose: a new preview card will get a new filename (iMessage caches by URL).
+- The hero photo from v1 (sleek braided ponytail) now lives in the gallery only. The link-preview card is `share-2.jpg` (gold-line hero art with the 12:21 hands, wordmark, 5.0 from 135 Google reviews). It uses a new filename because iMessage and Facebook cache previews by image URL.
 - Colour: every art file was graded through her palette (ink, bronze, champagne gold); the raw Kie renders leaned copper/rose and must not be used directly.
 - The v1 palm-green accent was retired so the whole site reads gold on black.
 

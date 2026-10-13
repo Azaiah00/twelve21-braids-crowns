@@ -55,7 +55,7 @@ outline, tapered tips, centre pin) in the art's own pixel space, stacked on the 
 
 - `assets/css/fonts.css`, `assets/css/site.css`: linked with `?v=20261012b`. **Bump the version on every CSS change, on every page** (Netlify caches /assets for a year).
 - `assets/js/js-flag.js` (adds `.js` to `<html>`, external so the CSP needs no inline script), `assets/js/site.js` (menu, reveals, finders, tabs, gallery, form).
-- `assets/fonts/`: 5 woff2 files. `assets/img/`: WebP photos (`name.webp` + `name-800.webp` where wider than 900px), `share.jpg` (1200x630 link preview), favicons, `gold-line-*` art (posters, panels, emblem PNG).
+- `assets/fonts/`: 5 woff2 files. `assets/img/`: WebP photos (`name.webp` + `name-800.webp` where wider than 900px), `share-2.jpg` (1200x630 link preview card; `share.jpg` is the retired v1 card, kept so old cached links still resolve), favicons, `gold-line-*` art (posters, panels, emblem PNG).
 - `assets/video/`: `gold-line-{hero-desktop,hero-mobile,studio,studio-mobile}.{webm,mp4}` (VP9 + H.264, no audio, faststart, 0.3 to 1.1 MB each).
 - `robots.txt`, `sitemap.xml`, `llms.txt` (AI answer-engine fact sheet with the full menu), `site.webmanifest`, `netlify.toml` (security headers incl. strict CSP, caching, pretty URLs, `/book` redirect to Acuity, internal .md files return 404).
 
